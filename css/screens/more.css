@@ -22,3 +22,7 @@
 .more-suggestions__title {
     margin-bottom: 30px;
 }
+
+.hidden {
+    opacity: 0;
+}
